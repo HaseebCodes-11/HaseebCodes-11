@@ -1,3 +1,9 @@
+Most of my work is built for clients and employers under **NDA**, so the source code lives in private repositories and can't be shared publicly.
+
+If you'd like to see how I work, I'm happy to **walk you through real code, architecture, and technical decisions over a screen-sharing call**.
+
+
+
 # Hi, I'm Haseeb Metla 👋
 
 ### Full Stack Lead Engineer · React, Node.js & AI
